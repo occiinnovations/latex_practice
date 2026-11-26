@@ -36,7 +36,7 @@ $$
 \text{total}= \sum_{k=0}^{n} \frac{(-1)^k}{2k + 1}
 $$
 
-## Intense Stuff
+## Other Stuff
 
 ### Binomial Coefficient
 
